@@ -1,1 +1,1 @@
-This is the Notebook of Univariate EDA
+This is the Folder of EDA Analysis
