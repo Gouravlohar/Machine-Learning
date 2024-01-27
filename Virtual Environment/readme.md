@@ -21,4 +21,17 @@ To deactivate the virtual environment, you can use the deactivate command:
 deactivate
 ```
 ## The "requirements.txt" file
+In addition to creating and activating a virtual environment, it can be useful to create a requirements.txt file that lists the packages and their versions that your project depends on. This file can be used to easily install all the required packages in a new environment.<br>
+
+To create a requirements.txt file, you can use the pip freeze command, which outputs a list of installed packages and their versions. For example:<br>
+```
+# Output the list of installed packages and their versions to a file
+pip freeze > requirements.txt
+```
+To install the packages listed in the requirements.txt file, you can use the pip install command with the -r flag:<br>
+```
+# Install the packages listed in the requirements.txt file
+pip install -r requirements.txt
+```
+Using a virtual environment and a requirements.txt file can help you manage the dependencies for your Python projects and ensure that your projects are portable and can be easily set up on a new machine.
 
