@@ -1,6 +1,6 @@
-# Awesome Machine Learning Repository
+# My Machine Learning Repository
 
-Welcome to my Awesome Machine Learning Repository! 🚀 In this repository, you'll find a collection of my machine learning projects, code snippets, and resources as I embark on my journey to master the fascinating world of machine learning and advance Python topics. This repository serves as a living record of my progress, learning, and exploration in the field of artificial intelligence.
+Welcome to My Machine Learning Repository! 🚀 In this repository, you'll find a collection of my machine learning projects, code snippets, and resources as I embark on my journey to master the fascinating world of machine learning and advance Python topics. This repository serves as a living record of my progress, learning, and exploration in the field of artificial intelligence.
 
 ## Table of Contents
 - [Introduction](#introduction)
