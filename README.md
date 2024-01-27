@@ -37,3 +37,36 @@ Explore code snippets covering various machine learning concepts, data preproces
 ### Snippet 1: [Snippet Title]
 ```python
 # Code snippet with comments explaining its purpose
+```
+### Snippet 2: \[Snippet Title\]
+
+pythonCopy code
+
+`# Code snippet with comments explaining its purpose`
+
+(Add more snippets as you explore new topics.)
+
+Learning Resources
+------------------
+
+Here are some valuable resources I've found helpful in my machine learning journey. Whether you're a beginner or looking to deepen your understanding, these resources cover a range of topics:
+
+*   Resource 1: Title
+*   Resource 2: Title
+*   Resource 3: Title
+
+(Update this section as you discover more resources.)
+
+Contributing
+------------
+
+If you'd like to contribute to this repository, whether it's by fixing a bug, adding a new feature, or suggesting improvements, please follow the [contribution guidelines](CONTRIBUTING.md). Your contributions are highly appreciated!
+
+License
+-------
+
+This repository is licensed under the MIT License. Feel free to use the code and resources for your own learning and projects.
+
+Happy coding! 🚀✨
+
+Copy code
