@@ -38,16 +38,15 @@ Explore code snippets covering various machine learning concepts, data preproces
 ```python
 # Code snippet with comments explaining its purpose
 ```
-### Snippet 2: \[Snippet Title\]
+### Snippet 2: [Snippet Title]
 
-pythonCopy code
 
-`# Code snippet with comments explaining its purpose`
 
-(Add more snippets as you explore new topics.)
-
-Learning Resources
-------------------
+```
+# Code snippet with comments explaining its purpose`
+```
+### Learning Resources
+----------------------
 
 Here are some valuable resources I've found helpful in my machine learning journey. Whether you're a beginner or looking to deepen your understanding, these resources cover a range of topics:
 
