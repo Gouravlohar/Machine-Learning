@@ -28,23 +28,6 @@ Feel free to explore, learn, and contribute. If you have any suggestions, improv
 - Technologies and libraries used.
 - Link to the project folder or notebook.
 
-(Add more projects as you continue your journey.)
-
-## Code Snippets
-
-Explore code snippets covering various machine learning concepts, data preprocessing techniques, model implementations, and more. Each snippet is well-documented and serves as a quick reference.
-
-### Snippet 1: [Snippet Title]
-```python
-# Code snippet with comments explaining its purpose
-```
-### Snippet 2: [Snippet Title]
-
-
-
-```
-# Code snippet with comments explaining its purpose`
-```
 ### Learning Resources
 ----------------------
 
