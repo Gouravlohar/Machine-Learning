@@ -21,7 +21,7 @@ Feel free to explore, learn, and contribute. If you have any suggestions, improv
 ### Project 1: [Web Scraping]
 - This project provides a simple example of web scraping using Beautiful Soup, a Python library for pulling data out of HTML and XML files. 
 - Technologies and libraries used:- Python and Beautiful Soup
-- [File Link](Web Scraping/)
+- [File Link](Web%20Scraping/)
 
 ### Project 2: [Project Name]
 - Brief description of the project.
