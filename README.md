@@ -47,7 +47,7 @@ If you'd like to contribute to this repository, whether it's by fixing a bug, ad
 License
 -------
 
-This repository is licensed under the MIT License. Feel free to use the code and resources for your own learning and projects.
+This repository is licensed under the [MIT License]LICENSE. Feel free to use the code and resources for your own learning and projects.
 
 Happy coding! 🚀✨
 
