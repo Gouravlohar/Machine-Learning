@@ -42,7 +42,7 @@ Here are some valuable resources I've found helpful in my machine learning journ
 Contributing
 ------------
 
-If you'd like to contribute to this repository, whether it's by fixing a bug, adding a new feature, or suggesting improvements, please follow the [contribution guidelines](CONTRIBUTING.md). Your contributions are highly appreciated!
+If you'd like to contribute to this repository, whether it's by fixing a bug, adding a new feature, or suggesting improvements. Your contributions are highly appreciated!
 
 License
 -------
