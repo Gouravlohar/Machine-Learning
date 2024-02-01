@@ -18,26 +18,25 @@ Feel free to explore, learn, and contribute. If you have any suggestions, improv
 
 ## Projects
 
-### Project 1: [Web Scraping]
+### Project 1: Web Scraping
 - This project provides a simple example of web scraping using Beautiful Soup, a Python library for pulling data out of HTML and XML files. 
 - Technologies and libraries used:- Python and Beautiful Soup
-- [File Link](Web%20Scraping/)
+- [Folder Link](Web%20Scraping/)
 
-### Project 2: [Project Name]
-- Brief description of the project.
-- Technologies and libraries used.
-- Link to the project folder or notebook.
+### Project 2: EDA
+- Performed EDA on Popular Datasets
+- Python, Matplotlib, Seaborn
+- [folder Link](EDA/)
 
 ### Learning Resources
 ----------------------
 
 Here are some valuable resources I've found helpful in my machine learning journey. Whether you're a beginner or looking to deepen your understanding, these resources cover a range of topics:
 
-*   Resource 1: Title
-*   Resource 2: Title
-*   Resource 3: Title
+*   Resource 1: [IBM EDA Blog](https://www.ibm.com/topics/exploratory-data-analysis)
+*   Resource 2: [Beautiful Suop](https://beautiful-soup-4.readthedocs.io/en/latest/)
+*   Resource 3: [Python Environment](Virtual%20Environment/)
 
-(Update this section as you discover more resources.)
 
 Contributing
 ------------
@@ -51,4 +50,3 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 
 Happy coding! 🚀✨
 
-Copy code
