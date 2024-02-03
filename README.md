@@ -36,7 +36,7 @@ Here are some valuable resources I've found helpful in my machine learning journ
 *   Resource 1: [IBM EDA Blog](https://www.ibm.com/topics/exploratory-data-analysis)
 *   Resource 2: [Beautiful Suop](https://beautiful-soup-4.readthedocs.io/en/latest/)
 *   Resource 3: [Python Environment](Virtual%20Environment/)
-
+*   Resource 4: For Datasets and More in ML, this is my [Kaggle Account](https://www.kaggle.com/gouravlohar)
 
 Contributing
 ------------
