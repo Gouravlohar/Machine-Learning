@@ -9,3 +9,9 @@ setattr(e1,"name", "Rick")
 print(e1.__dict__)
 print(hasattr(e2,"Father"))
 delattr(e1,"name")
+
+# Four types of Built in class function
+# Setattr
+# Getattr
+#  Hasattr
+#  Delattr
